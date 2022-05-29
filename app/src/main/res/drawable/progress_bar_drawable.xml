@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-rotate xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/anmation"
+    android:pivotX="50%"
+    android:pivotY="50%"/>
+
+    <!--<layer-list xmlns:android="http://schemas.android.com/apk/res/android">-->
+    <!--    <item android:id="@android:id/progress"-->
+    <!--        android:top="16dp"-->
+    <!--        android:bottom="16dp">-->
+    <!--        <rotate-->
+    <!--            android:fromDegrees="45"-->
+    <!--            android:pivotX="50%"-->
+    <!--            android:pivotY="50%"-->
+    <!--            android:toDegrees="315">-->
+    <!--            <shape android:shape="rectangle">-->
+    <!--                <size-->
+    <!--                    android:width="80dp"-->
+    <!--                    android:height="80dp" />-->
+    <!--                <stroke-->
+    <!--                    android:width="6dp"-->
+    <!--                    android:color="#b71c1c" />-->
+    <!--            </shape>-->
+    <!--        </rotate>-->
+    <!--    </item>-->
+    <!--</layer-list>-->
+
+
+    <!--<layer-list xmlns:android="http://schemas.android.com/apk/res/android">-->
+    <!--    <item android:id="@android:id/background">-->
+    <!--        <shape>-->
+    <!--            <gradient-->
+    <!--                android:startColor="#000001"-->
+    <!--                android:centerColor="#0b131e"-->
+    <!--                android:centerY="1.0"-->
+    <!--                android:endColor="#0d1522"-->
+    <!--                android:angle="270"-->
+    <!--                />-->
+    <!--        </shape>-->
+    <!--    </item>-->
+    <!--    -->
+    <!--    <item android:id="@android:id/progress">-->
+    <!--        <clip>-->
+    <!--            <shape>-->
+    <!--                <gradient-->
+    <!--                    android:startColor="#0089D1"-->
+    <!--                    android:centerColor="#0089D1"-->
+    <!--                    android:centerY="1.0"-->
+    <!--                    android:endColor="#06101d"-->
+    <!--                    android:angle="270"-->
+    <!--                    />-->
+    <!--            </shape>-->
+    <!--        </clip>-->
+    <!--    </item>-->
+    <!--</layer-list>-->
+
+    <!--<rotate xmlns:android="http://schemas.android.com/apk/res/android"-->
+    <!--    android:duration="4000"-->
+    <!--    android:fromDegrees="0"-->
+    <!--    android:pivotX="50%"-->
+    <!--    android:pivotY="50%"-->
+    <!--    android:toDegrees="1440">-->
+    <!--    <shape-->
+    <!--        android:innerRadius="10dp"-->
+    <!--        android:shape="ring"-->
+    <!--        android:thickness="2dp"-->
+    <!--        android:useLevel="false">-->
+    <!--        <solid android:color="@color/finalGray"-->
+    <!--        <size-->
+    <!--            android:width="100dp"-->
+    <!--            android:height="100dp" />-->
+    <!--        <gradient-->
+    <!--            android:background="@android:color/transparent"-->
+    <!--            android:centerY="0.5"-->
+    <!--            android:endColor="#0089D1"-->
+    <!--            android:startColor="#00FFFFFF"-->
+    <!--            android:type="sweep"-->
+    <!--            android:useLevel="false" />-->
+    <!--    </shape>-->
+
+    <!--</rotate>-->

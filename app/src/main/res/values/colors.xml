@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1489CA</color>
+    <!--    <color name="colorPrimaryDark">#1f91e9</color>-->
+    <color name="colorPrimaryDark">#ffffff</color>
+    <color name="colorAccent">#1489CA</color>
+    <color name="colorAccentHistory">#fff</color>
+    <color name="color_setting_background">#55a5e3</color>
+    <color name="colorAccentSendmoney">#e7e5e5</color>
+    <color name="colorRoundImage">#63b4f0</color>
+    <color name="colorLightPrimary">#b24e9dda</color>
+    <color name="colorGreyIcon">#606060</color>
+    <color name="finalGray">#D3D3D3</color>
+    <color name="rippleColor">#CCE7F6</color>
+
+
+    <color name="colorPrimarySecond">#1489CA</color>
+
+    <color name="background">#68c0f5</color>
+    <color name="background_light_theme">#7bbee6</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000</color>
+    <!--GCM-->
+    <color name="colorsAccent">#3990CA</color>
+    <!--main page color-->
+    <color name="btn_cancel_color">#999999</color>
+    <color name="btn_confirm_color">#303F9F</color>
+    <color name="active_tab_text_color">#000000</color>
+    <color name="inactive_tab_text_color">#AAAAAA</color>
+    <color name="active_tab_color">#008CBF</color>
+    <color name="inactive_tab_color">#00B4F0</color>
+    <color name="error_stroke_color">#F27474</color>
+    <color name="delet">#EF5350</color>
+    <color name="deletPressed">#E53935</color>
+    <color name="colorBackgroundText">#e5f3fa</color>
+
+
+    <color name="background_color_all">#eef0f1</color>
+    <color name="background_color_edittext">#f3f6f7</color>
+    <color name="background_like_blace">#212229</color>
+    <color name="color_green">#62cc65</color>
+    <color name="color_blue">#1898ab</color>
+    <color name="colorText">#606060</color>
+    <color name="colorTextDark">#606060</color>
+    <color name="color_primary_text">#262525</color>
+    <color name="color_secondary_text">#676767</color>
+    <color name="color_thirtary_text">#a6a6a6</color>
+    <color name="transparent">#00000000</color>
+    <color name="color_blue_selected">#004D40</color>
+    <color name="text_menu_color">#757575</color>
+    <color name="shadow_color">#000000</color>
+    <color name="deal_text">#333333</color>
+
+    <color name="color_ds1">#dddfd4</color>
+    <color name="color_ds2">#fae596</color>
+    <color name="color_ds3">#3fd0ac</color>
+    <color name="color_ds4">#173e43</color>
+
+    <color name="DangerRed">#F05454</color>
+    <color name="TapShoe">#121212</color>
+    <color name="BlueBloom">#30475E</color>
+    <color name="whiteBack">#F5F5F5</color>
+
+</resources>
+
